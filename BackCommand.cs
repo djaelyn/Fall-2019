@@ -33,5 +33,3 @@ namespace FinalGame
         }
     }
 }
-
-// At what point and how are the rooms added to the stack? 
